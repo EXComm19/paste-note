@@ -1,0 +1,24 @@
+{
+  "name": "paste-note",
+  "version": "1.0.0",
+  "description": "Paste Note : A Cross Platform Note App and Paste Bin",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EXComm19/paste-note.git"
+  },
+  "author": "EXComm19",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EXComm19/paste-note/issues"
+  },
+  "homepage": "https://github.com/EXComm19/paste-note#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nedb": "^1.8.0"
+  }
+}
